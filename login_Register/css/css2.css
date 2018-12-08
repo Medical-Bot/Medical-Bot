@@ -141,13 +141,13 @@ input:focus{
 	cursor: pointer;
 	padding: 13px;
 	font-size: 20px;
-	
+
 	color:#fff;
 	transition: all .5s;
 	-webkit-appearance:none;
 	width: 200px;
    margin: 10px 50px;
-	
+
 }
 .button:hover{
 	background: #2895FA;
